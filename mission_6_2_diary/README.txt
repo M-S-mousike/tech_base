@@ -1,0 +1,5 @@
+アップロードされた画像は、
+mission_6_2_diary/uploaded/image
+アップロードされた動画は、
+mission_6_2_diary/uploaded/video
+に保存されることになっているが、当該フォルダはGitHub上には存在していない。
